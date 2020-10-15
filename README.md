@@ -17,9 +17,9 @@ Ogni virus, invece ha sempre quattro valori da inserire:
   - Durata        (Numero di giorni che intercorrono fra momento del contagio e quello della guarigione)
 
 Il simulatore è mancante di una GUI, ma si può vedere da terminale come decorra il virus, e decidere giorno per giorno se:
-  -1 ==> Avanzare al giorno successivo
-  -2 ==> Isolare/togliere dall'isolamento un numero di individui
-  -3 ==> Eseguire il test del tampone
+  - Avanzare al giorno successivo
+  - Isolare/togliere dall'isolamento un numero di individui
+  - Eseguire il test del tampone
 
 Isolamento e tampone possono essere eseguiti solo quando il primo sintomatica è stato identificato.
 
