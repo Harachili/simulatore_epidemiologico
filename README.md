@@ -7,6 +7,7 @@ Ogni stato ha, infatti quattro valori da inserire, e cioè:
   - Quantità di risorse 
   - Costo di un tampone 
   - Numero di contatti giornalieri per persona
+  
 Ogni virus, invece ha sempre quattro valori da inserire: 
   - Infettività   (valore da 0 a 100 che indica quanto è probabile che un contatto tra un malato e un sano generi un infetto)
   - Sintomaticità (Valore da 0 a 100 che indica la probabilità che un contagiato sviluppi sintomi)
