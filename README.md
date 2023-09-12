@@ -1,5 +1,5 @@
 # SimulatoreEpidemiologico
-Il seguente Simulatore Epidemiologico è stato scritto in Java in cooperazione di *morebaconstrips*. 
+Il seguente Simulatore Epidemiologico è stato scritto in Java in cooperazione di [morebaconstrips](https://github.com/morebaconstrips). 
 
 È un progetto nato come esercizio per casa per l'esame di Metodologie di Programmazione. Si hanno a disposizione dei virus di base (Covid 19, Peste, HIV ed Ebola) e degli
 stati di default (Italia, UK, USA, Cina) nei quali tentare di gestire il virus, ma si può anche decidere i dati di stato e virus.
